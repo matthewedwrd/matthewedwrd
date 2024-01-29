@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# wsg
+I'm a 16-year old who's deeply interested in computer science. My main programming language is C, and my favorite computer science topics are OS development & graphics programming.
 <!--
 **matthewedwrd/matthewedwrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
